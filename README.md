@@ -1,1 +1,1 @@
-# cakir.github.io
+# https://muhammedckr.github.io/responsive/
